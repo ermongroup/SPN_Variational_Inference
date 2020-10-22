@@ -1,0 +1,95 @@
+results_4_2_1000_2.uai 26.908
+results_4_2_1000_4.uai 35.960
+results_4_2_1000_6.uai 64.257
+results_4_2_1000_8.uai 104.475
+results_4_2_1000_10.uai 146.081
+results_4_2_1000_12.uai 152.038
+results_4_2_1000_14.uai 181.451
+
+results_8_1_1000_2.uai 97.21
+results_8_1_1000_4.uai 190.77
+results_8_1_1000_6.uai 281.03
+results_8_1_1000_8.uai 356.73
+results_8_1_1000_10.uai 518.54
+results_8_1_1000_12.uai 538.38
+results_8_1_1000_14.uai 622.13
+
+results_16_1_1000_2.uai 414.50
+results_16_1_1000_4.uai 773.180
+results_16_1_1000_6.uai 1160.20
+results_16_1_1000_8.uai 1526.53
+results_16_1_1000_10.uai 1932.89
+results_16_1_1000_12.uai 2387.30
+results_16_1_1000_14.uai 2725.90
+
+results_4_1_1001_2.uai 23.227
+results_4_1_1001_4.uai 56.881
+results_4_1_1001_6.uai 78.240
+results_4_1_1001_8.uai 115.112
+results_4_1_1001_10.uai 125.746
+results_4_1_1001_12.uai 143.849
+results_4_1_1001_14.uai 175.787
+
+results_8_1_1001_2.uai 99.05
+results_8_1_1001_4.uai 192.39
+results_8_1_1001_6.uai 268.84
+results_8_1_1001_8.uai 369.53
+results_8_1_1001_10.uai 500.11
+results_8_1_1001_12.uai 573.85
+results_8_1_1001_14.uai 628.82
+
+results_16_1_1001_2.uai 421.02
+results_16_1_1001_4.uai 866.19
+results_16_1_1001_6.uai 1117.47
+results_16_1_1001_8.uai 1519.06
+results_16_1_1001_10.uai 1893.03
+results_16_1_1001_12.uai 2380.03
+results_16_1_1001_14.uai 2735.82
+
+results_4_1_1002_2.uai 28.746
+results_4_1_1002_4.uai 55.700
+results_4_1_1002_6.uai 62.666
+results_4_1_1002_8.uai 109.644
+results_4_1_1002_10.uai 125.939
+results_4_1_1002_12.uai 106.155
+results_4_1_1002_14.uai 168.283
+
+results_8_1_1002_2.uai 101.05
+results_8_1_1002_4.uai 180.56
+results_8_1_1002_6.uai 285.24
+results_8_1_1002_8.uai 376.77
+results_8_1_1002_10.uai 450.42
+results_8_1_1002_12.uai 620.47
+results_8_1_1002_14.uai 632.59
+
+results_16_1_1002_2.uai 406.37
+results_16_1_1002_4.uai 777.96
+results_16_1_1002_6.uai 1184.42
+results_16_1_1002_8.uai 1576.77
+results_16_1_1002_10.uai 1930.78
+results_16_1_1002_12.uai 2207.71
+results_16_1_1002_14.uai 2582.09
+
+results_4_1_1003_2.uai 29.490
+results_4_1_1003_4.uai 41.660
+results_4_1_1003_6.uai 70.360
+results_4_1_1003_8.uai 97.951
+results_4_1_1003_10.uai 119.616
+results_4_1_1003_12.uai 139.771
+results_4_1_1003_14.uai 188.064
+
+results_8_1_1003_2.uai 97.88
+results_8_1_1003_4.uai 183.24
+results_8_1_1003_6.uai 322.26
+results_8_1_1003_8.uai 353.57
+results_8_1_1003_10.uai 459.08
+results_8_1_1003_12.uai 580.55
+results_8_1_1003_14.uai 657.94
+
+results_16_1_1003_2.uai 415.18
+results_16_1_1003_4.uai 815.54
+results_16_1_1003_6.uai 1202.24
+results_16_1_1003_8.uai 1588.46
+results_16_1_1003_10.uai 1997.28
+results_16_1_1003_12.uai 2216.64
+results_16_1_1003_14.uai 2672.22
