@@ -1,5 +1,7 @@
 This repository contains code for the paper:
 
+[Probabilistic Circuits for Variational Inference in Discrete Graphical Models](https://arxiv.org/abs/2010.11446)
+
 ```
 "Probabilistic Circuits for Variational Inference in Discrete Graphical Models"
 Andy Shih, Stefano Ermon
