@@ -5,12 +5,12 @@ This repository contains code for the paper:
 ```
 "Probabilistic Circuits for Variational Inference in Discrete Graphical Models"
 Andy Shih, Stefano Ermon
-In Advances in Neural Information Processing Systems 34 (NeurIPS), 2020
+In Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020
 
-@inproceedings{SEneurips20,
+@inproceedings{ShihEneurips20,
   author    = {Andy Shih and Stefano Ermon},
   title     = {Probabilistic Circuits for Variational Inference in Discrete Graphical Models},
-  booktitle = {Advances in Neural Information Processing Systems 34 (NeurIPS)},
+  booktitle = {Advances in Neural Information Processing Systems 33 (NeurIPS)},
   month     = {december},
   year      = {2020},
 }
